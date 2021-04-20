@@ -1,6 +1,10 @@
 ### Hi there 👋
 
  I'm a third year student of Computer Science. I am looking for a job as a programmer, that will help me develop my skills and gain valuable experience.
+ 
+ - 🎓 I'm going to graduate in **2022**
+
+- 💻 I'm using **IntelliJ | Android Studio**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-kb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
