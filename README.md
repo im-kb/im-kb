@@ -4,7 +4,6 @@ A third year student of Computer Science ready to gain knowledge and experience.
  
 - 💻 I'm using **IntelliJ | Android Studio**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-kb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Things I code with</h3>
 <p>
